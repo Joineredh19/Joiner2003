@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Joiner2003
+- 👋 Hi, I’m @Joiner19
+- 🧑🏽‍💻 CEO DevSync Dynamics
 - 👀 I’m interested in Java SE,Java SpringBoot PHP developer and Laravel Framework
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
